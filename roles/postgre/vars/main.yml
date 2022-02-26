@@ -1,0 +1,6 @@
+---
+# vars file for postgre
+postgre_home: /home/ec2-user/ansible/ansible-project/postgres
+postgre_container: /home/ec2-user/postgresql1
+container_name: oliver_postgre
+image_name: olivercw/postgre
